@@ -1,3 +1,8 @@
+<h1 align="center">Hi! I'm Mohammad Asif Shamal 👋</h1>
+  
+<h3 align="center">Front-end Web Developer</h3>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aech_x) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@asif_shamal) 
